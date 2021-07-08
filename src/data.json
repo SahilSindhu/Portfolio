@@ -1,0 +1,36 @@
+{
+  "english": {
+    "name": "Sahil Sindhu",
+    "firstName": "Sahil",
+    "lastName": "Sindhu",
+    "designation": "UI Devloper",
+    "introduction": "Hi, I am Sahil, A UI Developer",
+    "technologies": {
+      "core": ["Angular", "React", "JS", "HTML", "CSS"],
+      "testing": ["JEST", "Galen", "TestCafe"],
+      "tools": ["VS Code", "Git"]
+    },
+    "projectList": [
+      {
+        "name": "NAB",
+        "sector": "Manufacturing",
+        "tecnology": ["React", "Node"]
+      },
+      {
+        "name": "CAT",
+        "sector": "Manufacturing",
+        "tecnology": ["Angular"]
+      },
+      {
+        "name": "i4option",
+        "sector": "Trading",
+        "tecnology": ["Angular"]
+      }
+    ],
+    "contact": {
+      "email": "sahilsindhu16@gmail.com",
+      "phone": "9729000981",
+      "github": "https://github.com/SahilSindhu"
+    }
+  }
+}
